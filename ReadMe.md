@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I'm Metehan ATES
 I'm currently learning
 
 
