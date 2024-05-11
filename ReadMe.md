@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm currently learning
 
-<a href="mailto:metehan.atrs@gmail.com"><img src="https://camo.githubusercontent.com/f7c57cf83ce8009b8bf6357e8b9c3b8a867b3df71cd5ebad2273ac43a130cd0f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d616d696e652e6572737540676d61696c2e636f6d2d6331343433383f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a616d696e652e6572737540676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-metehan.atrs@gmail.com-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:amine.ersu@gmail.com" style="max-width: 100%;"></a>
+<a href="mailto:metehan.atrs@gmail.com"><img src="https://camo.githubusercontent.com/f7c57cf83ce8009b8bf6357e8b9c3b8a867b3df71cd5ebad2273ac43a130cd0f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d616d696e652e6572737540676d61696c2e636f6d2d6331343433383f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a616d696e652e6572737540676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-metehan.atrs@gmail.com-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:metehan.atrs@gmail.com" style="max-width: 100%;"></a>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dCsg4RVw) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@ATESMETEHAN) 
